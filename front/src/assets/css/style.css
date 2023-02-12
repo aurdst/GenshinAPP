@@ -1,0 +1,9 @@
+
+@font-face {
+    font-family: 'Genshin';
+    src: url('../fonts/Belianty Elesha.woff');
+}
+
+body{
+    background-color: black;
+}
